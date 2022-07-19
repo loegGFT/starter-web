@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
     1. Clone the repository
     2. Open the index.html file in your browser
     3. See the results
+
+## License
+GPLv3 or later (see LICENSE.md) <3 <3 <3
