@@ -16,7 +16,7 @@ Version control is cool.
     3. See the results
 
 ## License
-GPLv3 or later (see LICENSE.md) <3 <3 <3
+GPLv3 or later (see LICENSE.md)
 
 ## Copyright
 Copyright (c) 2022, GFT Technologies, Inc.
