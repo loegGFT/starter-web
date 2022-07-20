@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work, during a project.
+We're currently in version 1.1
 
 ## Purpose
 
