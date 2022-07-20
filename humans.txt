@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Álvaro Real -- Junior Software Engineer
+    Álvaro Real -- Junior Software Engineer -- @jack
 # THANKS
 
     <name>
