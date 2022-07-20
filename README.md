@@ -16,3 +16,6 @@ Version control is cool.
 
 ## License
 GPLv3 or later (see LICENSE.md) <3 <3 <3
+
+## Copyright
+Copyright (c) 2022, GFT Technologies, Inc.
